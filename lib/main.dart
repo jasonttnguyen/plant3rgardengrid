@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:plant3r_app/WindowSillGrid.dart';
-import 'package:plant3r_app/PoolTableGrid.dart';
-import 'package:plant3r_app/StudyDeskGrid.dart';
-import 'package:plant3r_app/SmallSwimmingPoolGrid.dart';
-import 'package:plant3r_app/CustomGrid.dart';
+import 'WindowSillGrid.dart';
+import 'PoolTableGrid.dart';
+import 'StudyDeskGrid.dart';
+import 'SmallSwimmingPoolGrid.dart';
+import 'CustomGrid.dart';
 
 void main() {
   runApp(
